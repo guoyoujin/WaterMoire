@@ -5,7 +5,7 @@
 此项目没有使用jquery，使用的是纯js，可以放下使用
 
 ## ScreenShot
-效果图是要实现下面的效果<br>
+效果图是要实现下面的效果(最初是需要最外边那个人都得跟着圆环旋转的，现在还没想好怎么写这个，最后还差一些颜色渐变没实现)<br>
 ![WaterMoire](images/gif1.png "效果图是")
 
 
@@ -16,7 +16,7 @@
 ## License
 
 ```
-Copyright 2016 trycatch
+Copyright 2017 trycatch
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
