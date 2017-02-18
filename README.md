@@ -6,8 +6,7 @@
 
 ## ScreenShot
 效果图是要实现下面的效果<br>
-![WaterMoire](images/gif1.gif "效果图是")
-![WaterMoire](images/gif.gif "5.0 sample")
+![WaterMoire](images/gif1.jpg "效果图是")
 
 
 ## Thanks To
