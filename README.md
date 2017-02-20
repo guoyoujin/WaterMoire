@@ -9,8 +9,8 @@
 
 ## ScreenShot
 效果图是要实现下面的效果(最初是需要最外边那个人都得跟着圆环旋转的，现在还没想好怎么写这个，最后还差一些颜色渐变没实现)<br>
+![WaterMoire](images/gif2.gif "动画")
 ![WaterMoire](images/gif1.png "效果图")
-![WaterMoire](images/gif2.png "动画")
 
 ## Thanks To
 <a href="https://github.com/NumerHero/animations" target="_blank">NumerHero</a>
