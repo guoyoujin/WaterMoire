@@ -100,7 +100,8 @@
     var fonty = r + size/2;
     var fontx = r - size * 0.8;
     ctx.fillStyle = "#f6b71e";
-    ctx.fillText(txt, fontx, fonty)
+    ctx.textAlign = 'center';
+    ctx.fillText(txt, r+5, r+20)
   }
   //最外面淡黄色圈
   function drawCircle(){
